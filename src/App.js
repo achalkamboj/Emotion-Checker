@@ -7,7 +7,11 @@ var emojiDictionary = {
   "😂": "Face with Tears of Joy",
   "😅": "Grinning Face with Sweat",
   "😸": "Grinning Cat with Smiling Eyes",
-  "😹": "Cat with Tears of Joy"
+  "😹": "Cat with Tears of Joy",
+  "❤️": "Red Heart",
+  "✨": "Sparkles",
+  "🔥": "Fire",
+  "🥺": "Pleading Face"
 };
 
 var emojisWeKNow = Object.keys(emojiDictionary);
